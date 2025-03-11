@@ -1,124 +1,151 @@
-
-
-
-
-
 function Resume() {
+  return(
+      <>
+      <section id="resume" class="resume">
+        <div class="container">
 
+          <div class="section-title">
+            <h2>Resume</h2>
+          </div>
 
+          <div class="row">
+            <div class="col-lg-6">
+              <h3 class="resume-title">Summary</h3>
+              <div class="resume-item pb-0">
+                <h4>Mohamed Gouali</h4>
+                <p><em>I am a passionate Full-Stack Developer with over 10 years of experience in building high-performance applications. My expertise spans across technologies such as ASP.NET Core, Angular, Microservices, Azure, and SQL Server, with a strong background in building scalable SaaS solutions and POS systems.</em></p>
+                <ul>
+                  <li>Ain Sbaa, Casablanca, Morocco</li>
+                  <li>+212 660430019</li>
+                  <li>contact@goualimed.com</li>
+                  <li>Website: <a href="https://techposify.info/">techposify.info</a></li>
+                </ul>
+              </div>
 
-
-
-
-    return(
-        <>
-        <section id="resume" class="resume">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Resume</h2>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-6" >
-            <h3 class="resume-title">Sumary</h3>
-            <div class="resume-item pb-0">
-              <h4>Mohamed Gouali</h4>
-              <p><em>Je suis un développeur full-stack passionné par la création d'expériences numériques exceptionnelles avec une expérience de trois ans.</em></p>
-              <ul>
-                <li>Ain sbaa, casablanca morocco</li>
-                <li>+212 611800740</li>
-                <li>contact@goualimed.com</li>
-              </ul>
+              <h3 class="resume-title">Education</h3>
+              <div class="resume-item">
+                <h4>BA+2 in software developer </h4>
+                <h5>2019 - 2021</h5>
+                <p><em>ISTICG, Berrechid, Morocco</em></p>
+                <p>
+                  <ul>
+                    <li>Backend Development with ASP.NET Core</li>
+                    <li>Frontend Development with HTML, CSS, JS, and jQuery</li>
+                    <li>SQL Server Database Management</li>
+                    <li>Windows Forms Desktop Development</li>
+                    <li>Android Development with Java</li>
+                  </ul>
+                </p>
+              </div>
+              <div class="resume-item">
+                <h4>Baccalaureate in IT Maintenance and Networking</h4>
+                <h5>2015 - 2018</h5>
+                <p><em>Lycée Youssef Ben Tachafine, Agadir & Institut Spécialisé des Techniques Appliquées, Agadir</em></p>
+                <p>
+                  <ul>
+                    <li>Computer Architecture</li>
+                    <li>IT Maintenance</li>
+                    <li>Network Installation</li>
+                    <li>Cisco Switch & Router Configuration</li>
+                  </ul>
+                </p>
+              </div>
             </div>
 
-            <h3 class="resume-title">Education</h3>
-            <div class="resume-item">
-              <h4>BAc+2</h4>
-              <h5>2019 - 2021</h5>
-              <p><em>ISTICG berrechid</em></p>
-              <p>
+            <div class="col-lg-6" data-aos-delay="100">
+              <h3 class="resume-title">Professional Experience</h3>
+              <div class="resume-item">
+                <h4>Full-Stack Developer</h4>
+                <h5>2022 - 2023</h5>
+                <p><em>Freelancer</em></p>
                 <ul>
-                 <li>Dévelopment backend asp.net core</li>
-                 <li>Dévelopment frent-end html-css-js-jquery</li>
-                 <li>Gestion des bases des données SqlServer</li>
-                 <li>Dévelopment desktop Windows forms</li>
-                 <li>Dévelopment Mobile Adroid JAVA</li>
-
-
+                  <li>Developed custom SaaS solutions for various clients.</li>
+                  <li>Designed and implemented complex API and web modules.</li>
+                  <li>Optimized project architecture and security performance.</li>
+                  <li>Ensured code quality and best practices throughout the development lifecycle.</li>
+                  <li>Technologies used:
+                    <ul>
+                    <li>.NET Core</li>
+                    <li>Angular</li>
+                    <li>SQL Server</li>
+                    <li>Azure</li>
+                    <li>Git/GitHub</li>
+                    </ul>
+                  </li>
                 </ul>
-              </p>
-            </div>
-            <div class="resume-item">
-              <h4>baccalaureat en maintenance informatique et réseaux</h4>
-              <h5>2015 - 2018</h5>
-              <p><em>Lycée Youssef ben tachafine  Agadir & Institut spécialisé des techniques appliquée Agadir</em></p>
-              <p>
+              </div>
+
+              <div class="resume-item">
+                <h4>IT Project manager at GSM AL MAGHRIB</h4>
+                <h5>october 2023 - August 2023</h5>
                 <ul>
-                 <li>Archetecture des ordinateurs</li>
-                 <li>Maintenance informatique</li>
-                 <li>Installation des réseaux informatique </li>
-                 <li>Configuration des équipements Cisco switch & routeurs</li>
-           
+                  <li> Managed end-to-end project lifecycles for 5+ software development projects, ensuring alignment with business goals.</li>
+                  <li>Tracked project progress using Microsoft Project</li>
+                  <li>Optimized project architecture and security performance.</li>
+                  <li>Ensured code quality and best practices throughout the development lifecycle.</li>
+                  <li>Technologies used:
+                    <ul>
+                    <li>clickup</li>
+                    <li>UML</li>
+                    <li>MERISE</li>
+                    <li>Microsoft visio</li>
+                    <li>Microsoft project</li>
+                    <li>.Net framework</li>
+                    <li>Wordpress/Hostinger</li>
+                    </ul>
+                  </li>
                 </ul>
-              </p>
+              </div>
+
+              <div class="resume-item">
+                <h4>Full-Stack Developer at FBCCOM</h4>
+                <h5>january 2022- october 2023</h5>
+              
+                <ul>
+                  <li>Analyzed client requirements and proposed technical solutions.</li>
+                  <li>Developed new web modules and APIs for various projects.</li>
+                  <li>Optimized project structure and architecture for better performance.</li>
+                  <li>Ensured the implementation of best practices in performance.</li>
+                  <li>Technologies used:
+                    <ul>
+                    <li>.NET Core</li>
+                    <li>React</li>
+                    <li>Angular</li>
+                    <li>SQL Server</li>
+                    <li>Azure</li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+
+              <div class="resume-item">
+                <h4>.NET Developer at Crown Solutions</h4>
+                <h5>2021 - 2022</h5>
+                <ul>
+                  <li>Designed and implemented desktop applications with Windows Forms.</li>
+                  <li>Optimized code for improved performance and security.</li>
+                  <li>Collaborated with team members to ensure project success.</li>
+                  <li>Technologies used:
+                    <ul>
+                    <li>c# .NET Framework</li>
+                    <li>Windows Forms</li>
+                    <li>SQL Server</li>
+                    <li>Devexpress</li>
+                    <li>Crystal report</li>
+                    </ul>
+                  </li>
+                
+                </ul>
+              </div>
+
+              
             </div>
           </div>
-          <div class="col-lg-6"  data-aos-delay="100">
-            <h3 class="resume-title"> Expériences professionnel</h3>
-            <div class="resume-item">
-              <h4>Développeur FullStack</h4>
-              <h5>2022 - 2023</h5>
-              <p><em> Freelancer  </em></p>
 
-
-            </div> 
-            <div class="resume-item">
-              <h4>FullStack developer</h4>
-              <h5>2022 - 2023</h5>
-              <p><em>FBCCOM  </em></p>
-              <ul>
-              <li> Analyser les besoins et choisir les solutions techniques les mieux adaptées </li>                                                                                 
-                <li> Conception et Implémentation de nouveaux modules Web et API du projet.</li>  
-                <li> Optimisation de Structure et Architecture du projet.</li>  
-                <li> Optimisation de la Sécurité et Performance de l'application.</li>  
-                <li> Assurer que les meilleures pratiques sont bien implémentées.</li>  
-                <li> Assurer la qualité du produit sur tout le process de développement.</li>  
-                <li> Participer à la mise à jour des bases de connaissance. </li>
-                 <li> backend:Asp.Net Core,Razor pages et Rest API </li>  
-                 <li> Frent-end: React Js, MaterilUI ,Boostrap </li>  
-              </ul>
-            </div>
-            <div class="resume-item">
-              <h4>DotNet developer</h4>
-              <h5>2021-2022</h5>
-              <p><em>Crown solutions</em></p>
-              <ul>
-
-                <li> Analyser les besoins et choisir les solutions techniques les mieux adaptées </li>                                                                                 
-                <li> Conception et Implémentation de nouveaux modules du projet.</li>  
-                <li> Optimisation de Structure et Architecture du projet.</li>  
-                <li> Optimisation de la Sécurité et Performance de l'application.</li>  
-                <li> Assurer que les meilleures pratiques sont bien implémentées.</li>  
-                <li> Assurer la qualité du produit sur tout le process de développement.</li>  
-                <li> Participer à la mise à jour des bases de connaissance. </li>
-                 <li> Technologies: c#, WindowsForms,DotNet Framework,SqlServer,GunaFramework</li>  
-              </ul>
-
-
-
-            </div>    
-          </div>
         </div>
-
-      </div>
-    </section>
-
-
-      
-        </>
-    )
+      </section>
+      </>
+  );
 }
 
-
-export default Resume
+export default Resume;
