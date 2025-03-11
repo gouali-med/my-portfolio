@@ -17,9 +17,22 @@ function About() {
         <div class="section-title">
           <h2>A propos</h2>
           <p>
-              Je suis un développeur full-stack passionné par la création d'expériences numériques exceptionnelles .
-              Je me spécialise dans la création d'applications Web réactives qui privilégient la conception centrée sur l'utilisateur et la navigation intuitive.
-              
+          👋 Hi, I'm Mohamed! A passionate .NET and Angular developer with 4+ years of experience in building high-performance applications. I specialize in ASP.NET Core, Angular, Microservices, Azure, SQL Server, and CQRS, with strong expertise in desktop applications using .NET Framework.
+
+            💡 I have a keen eye for design, precision, and problem-solving, allowing me to create scalable, efficient, and user-friendly solutions. I focus on delivering reliable and innovative solutions tailored to business needs.
+
+            🚀
+
+            🔹 Skills & Expertise:
+            ✔ .NET (ASP.NET Core, .NET Framework)
+            ✔ Angular, TypeScript
+            ✔ Microservices Architecture
+            ✔ Azure & Cloud Solutions
+            ✔ SQL Server & Cosmos DB
+            ✔ DevExpress, Crystal Reports
+            ✔ Windows Forms & Desktop Applications
+
+            🌍 Languages: Fluent in French, English, and Arabic, and currently learning Tamazight.
           </p>
         </div>
 
