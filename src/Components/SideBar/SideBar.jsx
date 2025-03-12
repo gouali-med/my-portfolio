@@ -65,7 +65,7 @@ const toggleClick=(e)=>{
     <div className="d-flex flex-column">
 
       <div className="profile">
-        <img src="/img/myPicture.jpg" alt="" className="img-fluid rounded-circle"/>
+        <img src="/img\myPicture.jpg" alt="" className="img-fluid rounded-circle"/>
         <h1 className="text-light">Mohamed Gouali</h1>
         <div className="social-links mt-3 text-center">
           <NavLink target="_blank" to={"https://github.com/gouali-med"}  className="google-plus"><i className='bx bxl-github'></i></NavLink>
