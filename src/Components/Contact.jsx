@@ -67,7 +67,7 @@ function Submit(e) {
               <div className="email">
                 <i className="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>contact@goualimed.com</p>
+                <p>mohammed.gouali@gmail.com</p>
               </div>
 
               <div className="phone">
