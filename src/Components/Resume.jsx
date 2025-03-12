@@ -13,7 +13,7 @@ function Resume() {
               <h3 class="resume-title">Summary</h3>
               <div class="resume-item pb-0">
                 <h4>Mohamed Gouali</h4>
-                <p><em>I am a passionate Full-Stack Developer with over 10 years of experience in building high-performance applications. My expertise spans across technologies such as ASP.NET Core, Angular, Microservices, Azure, and SQL Server, with a strong background in building scalable SaaS solutions and POS systems.</em></p>
+                <p><em>I am a passionate Full-Stack Developer with over 4 years of experience in building high-performance applications. My expertise spans across technologies such as ASP.NET Core, Angular, Microservices, Azure, and SQL Server, with a strong background in building scalable solutions.</em></p>
                 <ul>
                   <li>Ain Sbaa, Casablanca, Morocco</li>
                   <li>+212 611800740</li>
