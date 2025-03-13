@@ -27,6 +27,7 @@ function Portfolio() {
               <h5 className="text-center text-white" style={{backgroundColor:"#149ddd"}}>SaaS pos software</h5>
               <img src="/img\portfolio\pos.png" class="img-fluid" alt=""/>
               <div class="portfolio-links">
+               <a target="_blank" href="http://afrequecaisse-001-site1.qtempurl.com" title="More Details"><i class="bx bx-show"></i></a>
                 <a href="/img\portfolio\pos.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a target="_blank" href="https://github.com/gouali-med/" title="More Details"><i class="bx bx-link"></i></a>
               </div>
