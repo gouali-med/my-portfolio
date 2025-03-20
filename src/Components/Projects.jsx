@@ -60,7 +60,9 @@ function Portfolio() {
             <h5 className="text-center text-white" style={{backgroundColor:"#149ddd"}}>Discover the world </h5>
               <img src="/img/portfolio\countries.PNG" class="img-fluid" alt=""/>
               <div class="portfolio-links">
-                <a href="https://discovertheworldwithgouali.vercel.app/" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                <a target="_blank" href="https://discovertheworldwithgouali.vercel.app/" title="More Details"><i class="bx bx-show"></i></a>
+                <a href="/img\portfolio\countries.PNG" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+
                 <a target="_blank" href="https://github.com/gouali-med/" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
