@@ -84,6 +84,7 @@ function Portfolio() {
             <h5 className="text-center text-white" style={{backgroundColor:"#149ddd"}}>ecommerce website</h5>
               <img src="/img/portfolio\Captureecommerce.PNG" class="img-fluid" alt=""/>
               <div class="portfolio-links">
+              <a target="_blank" href="https://ecommercemvc.fly.dev/" title="More Details"><i class="bx bx-show"></i></a>
                 <a href="/img/portfolio\Captureecommerce.PNG" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
                 <a target="_blank" href="https://github.com/gouali-med/" title="More Details"><i class="bx bx-link"></i></a>
               </div>
