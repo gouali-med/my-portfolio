@@ -54,7 +54,7 @@ function Resume() {
               <h3 class="resume-title">Professional Experience</h3>
               <div class="resume-item">
                 <h4>Full-Stack Developer</h4>
-                <h5>2022 - 2023</h5>
+                <h5>2025 - present</h5>
                 <p><em>Freelancer</em></p>
                 <ul>
                   <li>Developed custom SaaS solutions for various clients.</li>
@@ -75,7 +75,7 @@ function Resume() {
 
               <div class="resume-item">
                 <h4>IT Project manager at GSM AL MAGHRIB</h4>
-                <h5>october 2023 - August 2023</h5>
+                <h5>october 2023 - december 2024</h5>
                 <ul>
                   <li> Managed end-to-end project lifecycles for 5+ software development projects, ensuring alignment with business goals.</li>
                   <li>Tracked project progress using Microsoft Project</li>
@@ -118,7 +118,7 @@ function Resume() {
 
               <div class="resume-item">
                 <h4>.NET Developer at Crown Solutions</h4>
-                <h5>2021 - 2022</h5>
+                <h5>july 2021 - juanuary 2022</h5>
                 <ul>
                   <li>Designed and implemented desktop applications with Windows Forms.</li>
                   <li>Optimized code for improved performance and security.</li>
