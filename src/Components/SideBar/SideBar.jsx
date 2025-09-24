@@ -70,7 +70,7 @@ const toggleClick=(e)=>{
         <div className="social-links mt-3 text-center">
           <NavLink target="_blank" to={"https://github.com/gouali-med"}  className="google-plus"><i className='bx bxl-github'></i></NavLink>
           <NavLink target="_blank" to={"https://www.linkedin.com/in/mohamed-gouali-5873191a3/"}   className="linkedin"><i className="bx bxl-linkedin" ></i></NavLink>
-          <NavLink target="_blank" to={"https://www.instagram.com/mohamedgouali"}   className="instagram"><i className="bx bxl-instagram"></i></NavLink>
+          <NavLink target="_blank" to={"https://www.instagram.com"}   className="instagram"><i className="bx bxl-instagram"></i></NavLink>
 
         </div>
       </div>
